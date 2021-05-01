@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": "11111111",
+      "nama": "Flasma Veronicha",
+      "alamat": "Malang",
+      "hp": "09876",
+      "angkatan": "2018",
+      "status": "oke",
+      "id": 1618299749818
+    },
+    {
+      "NIM": "18417202177",
+      "nama": "Muimui Veronicha",
+      "alamat": "Malang",
+      "hp": "082338118330",
+      "angkatan": "2020",
+      "status": "Aktif",
+      "id": 1618301171701
+    },
+    {
+      "NIM": "1841720218080",
+      "nama": "Mumui Panda",
+      "alamat": "Malang",
+      "hp": "0341000",
+      "angkatan": "2020",
+      "status": "Lulus",
+      "id": 1618364980209
+    }
+  ]
+}
